@@ -17,4 +17,5 @@ Doctor note is a cloud-based hospital management solution, which helps medical c
 ![App Screenshot](https://user-images.githubusercontent.com/63460746/156383908-cf4d9380-fd8c-462a-bd0f-6f6e2ce8867c.png)
 
 ## Live link
-doctor-note.vercel.app
+## Live link
+ [![Doctor Note]](doctor-note.vercel.app)
